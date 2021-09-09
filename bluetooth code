@@ -1,4 +1,4 @@
-#include <AFMotor.h>
+#include <AFMotor.h> //library being used
 
 //initializing the dc motor pins and the connections to the h bridge
 AF_DCMotor motor1(1, MOTOR12_64KHZ); 
